@@ -26,6 +26,7 @@ Magiczne urządzenie jest wyposażone w:
     - tryby neutralne (nieoznaczone czerwone kwadraty)
     - tryby aktywujące koła powozu (opisane czerwone kwadraty)
 - przejścia między trybami (czarne linie)
+
 Korbka między trybami może poruszać się w każdą stronę po czarnych liniach. Korbka jest na początku umieszczona na trybie OFF.
 Przykładowo, aby przejść z trybu OFF do trybu R, przechodzimy do jednego stanu neutralnego, a dopiero potem do trybu R. Działanie urządzenia można przyrównać do skrzyni biegów.
 
