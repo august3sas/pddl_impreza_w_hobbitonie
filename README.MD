@@ -3,7 +3,7 @@
 - Informatyka 5 semestr rok 2023/2024  
 
 **Inspiracja:**  
-- Gra Rush Hour - najbardziej ulubiona gra logiczna dzieciństwa.  
+- Gra Rush Hour - ulubiona gra logiczna z dzieciństwa.  
 - Gra Chants of Sennaar - w grze komputerowej była zawarta wariacja tej łamigłówki, co przypomniało mi o jej oryginale.  
 
 **Pliki i ich opis:**  
