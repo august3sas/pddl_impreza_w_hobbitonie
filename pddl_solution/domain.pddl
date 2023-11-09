@@ -1,5 +1,5 @@
 (define 
-    (domain rush_hour)
+    (domain impreza_w_hobbitonie)
     (:requirements :adl :strips)
     (:types 
         car position direction gearbox

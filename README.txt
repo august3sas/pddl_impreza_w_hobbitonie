@@ -14,16 +14,16 @@ Treść zadania:
     Gandalf po imprezie musi się wybrać na spotkanie z Sarumanem - potrzebuje więc swojego powozu (literka G). Jednakże
     tak łatwo jego powóz nie wyjedzie, gdyż drogę do wyjścia zastawiły inne. Chcąc zrobić na złość Merremu i Pippinowi,
     założył na wszystkie powozy (łącznie z swoim) magiczną blokadę na koła, która sprawia, że nie mogą one się ruszać. 
-    Aby móc zdjąć magiczną blokadę, Gandalf udostępnił hobbitom magiczne urządzenie.
+    Aby móc zdjąć magiczną blokadę (dla jednego powozu na raz), Gandalf udostępnił hobbitom magiczne urządzenie.
     
     Magiczne urządzenie jest wyposażone w:
-    - korbkę (niebieski okrąg)
+    - korbkę (niebieski okrąg umieszczony na trybie OFF)
     - tryby 
         - tryb OFF 
         - tryby neutralne (nieoznaczone czerwone kwadraty)
         - tryby aktywujące koła powozu (opisane czerwone kwadraty)
     - przejścia między trybami (czarne linie)
-    Korbka między trybami może poruszać się w każdą stronę po czarnych liniach. 
+    Korbka między trybami może poruszać się w każdą stronę po czarnych liniach. Korbka jest na początku umieszczona na trybie OFF.
 
     Gdy korbka znajduje sie na odpowiednio opisanym trybie, wtedy koła danego powozu się odblokowują i można ów powóz przesuwać
     po zapleczu logistycznym.

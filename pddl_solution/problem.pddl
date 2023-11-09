@@ -1,4 +1,4 @@
-(define (problem p1) (:domain rush_hour)
+(define (problem p1) (:domain impreza_w_hobbitonie)
 
 (:objects 
     pa1 pa2 pa3 pa4 pa5 pa6
