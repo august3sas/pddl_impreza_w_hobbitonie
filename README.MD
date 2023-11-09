@@ -31,6 +31,7 @@ Korbka między trybami może poruszać się w każdą stronę po czarnych liniac
 Przykładowo, aby przejść z trybu OFF do trybu R, przechodzimy do jednego stanu neutralnego, a dopiero potem do trybu R. Działanie urządzenia można przyrównać do skrzyni biegów.
 
 Gdy korbka znajduje się na odpowiednio opisanym trybie, wtedy koła danego powozu się odblokowują i można ów powóz przesuwać po zapleczu logistycznym. Dodatkowo, Gandalf zażyczył sobie, aby **hobbici oddali jemu magiczne urządzenie z korbką umieszczoną na trybie "OFF"**.
+
 Na zapleczu jest dość ciasno, więc powozy nie mogą skręcać ani zmieniać kierunku jazdy (oczywiście mogą zmienić zwrot). Powozy umieszczone poziomo można przesuwać tylko i wyłącznie poziomo, a powozy umieszczone pionowo można przesuwać tylko i wyłącznie pionowo.
 Hobbitów czeka słuszna kara za rozrabianie. Aby ukrócić swoje udręki, podzielili się pracą. Merry będzie przesuwać powozy, a Pippin będzie obsługiwać magiczne urządzenie. Pomóż hobbitom rozwiązać problem.
 
