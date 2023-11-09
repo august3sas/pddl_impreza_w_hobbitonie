@@ -4,6 +4,13 @@ Autor:
 Inspiracja:
     Gra Rush Hour - najbardziej ulubiona gra logiczna dzieciństwa.
     Gra Chants of Sennaar - w grze komputerowej była zawarta wariacja tej łamigłówki, co przypomniało mi o jej oryginale.
+Pliki i ich opis:
+    /pddl_solution/domain.pddl - przykładowa dziedzina (rozwiązane zadanie)
+    /pddl_solution/problem.pddl - przykładowy problem (rozwiązane zadanie)
+    /pddl_solution/plan.txt - plan wygenerowany za pomocą powyższej domeny i problemu
+    /impreza_w_hobbitonie.png - wizualizacja problemu
+    /problem.pddl - początkowa wersja problemu, do której dostęp będzie mieć student
+    
 Treść zadania:
     Na 111 urodziny Bilbo Bagginsa zjechało się prawie całe Shire. Przyjechał również jego stary przyjaciel -
     czarodziej Gandalf, który przyjechał powozem z zapasem magicznych fajerwerków. Merry i Pippin w
