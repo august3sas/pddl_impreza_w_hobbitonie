@@ -13,6 +13,7 @@
 - `/pddl_solution/plan.txt` - plan wygenerowany za pomocą powyższej domeny i problemu  
 - `/impreza_w_hobbitonie.png` - wizualizacja problemu  
 - `/problem.pddl` - początkowa wersja problemu, do której dostęp będzie mieć student  
+- `/pddl_easier_problem.pddl` - prostsza wersja łamigłówki
 
 # Treść zadania
 Na 111 urodziny Bilbo Bagginsa zjechało się prawie całe Shire. Przyjechał również jego stary przyjaciel - czarodziej Gandalf, który przyjechał powozem z zapasem magicznych fajerwerków. Merry i Pippin w trakcie tej imprezy zdenerwowali Gandalfa, włamując się na zaplecze logistyczne imprezy, na którym zaparkowane były powozy, w tym powóz Gandalfa z fajerwerkami. Merry i Pippin postanowili przetestować fajerwerki bez pozwolenia czarodzieja, za co on ich ukarał.
